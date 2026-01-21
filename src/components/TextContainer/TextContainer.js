@@ -1,8 +1,9 @@
-import react from "react";
+import React from 'react'
 
-const TextContainer = ()=>{
-    return <div>
-        텍스트
-    </div>
+const TextContainer = () => {
+  return (
+    <div>TextContainer</div>
+  )
 }
-export default TextContainer  
+
+export default TextContainer
